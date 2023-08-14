@@ -1,0 +1,13 @@
+﻿  Build++: Build number is 653 
+cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  AheadLib.cpp
+D:\security\ms\白加黑\src\AheadLib.cpp(721,9): error C2440: “=”: 无法从“const char *”转换为“PSTR”
+D:\security\ms\白加黑\src\AheadLib.cpp(721,9): message : 转换丢失限定符
+  AboutDlg.cpp
+D:\security\ms\白加黑\src\AboutDlg.cpp(157,86): warning C4838: 从“UINT”转换到“LONG”需要收缩转换
+D:\security\ms\白加黑\src\AboutDlg.cpp(503,54): error C2065: “_winmajor”: 未声明的标识符
+D:\security\ms\白加黑\src\AboutDlg.cpp(503,54): error C2065: “_winminor”: 未声明的标识符
+D:\security\ms\白加黑\src\AboutDlg.cpp(503,12): error C2660: “LoadCursorA”: 函数不接受 1 个参数
+D:\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(10555,1): message : 参见“LoadCursorA”的声明
+D:\security\ms\白加黑\src\AboutDlg.cpp(503,12): message : 尝试匹配参数列表“(int)”时
+  正在生成代码...
